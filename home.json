@@ -1,0 +1,183 @@
+{
+  "hero": {
+    "eyebrow": "1143 Front St, Binghamton, NY 13905",
+    "headline": "Binghamton Flynnstoned\n Events & Deals",
+    "subheadline": "Curated picks, always 21+. Stay in the know with Flynnstoned.",
+    "cta1": "Browse Events",
+    "cta2": "See Deals",
+    "disclaimer": "Must be 21+ to enter. Please consume responsibly."
+  },
+  "events": {
+    "sectionLabel": "Upcoming Events",
+    "headline": "What's Happening at Flynnstoned",
+    "subheadline": "From live music to pop-ups, there's always something going on.",
+    "featured": {
+      "title": "Best Carved Pumpkin Contest",
+      "description": "Think you've got the best carving skills in Binghamton? Enter online for a chance to win a bong prize. Submit your entry before Halloween!",
+      "tag": "Contest",
+      "location": "Binghamton Flynnstoned",
+      "date": "Oct 2026"
+    },
+    "cards": [
+      {
+        "id": "event-1",
+        "title": "Ghost Hunt",
+        "description": "Find hidden ghosts in the store and tell your Budtender the total for 10% off. Ends 10/31/26.",
+        "tag": "Contest",
+        "location": "Binghamton Flynnstoned",
+        "date": "Ends Oct 31, 2026"
+      },
+      {
+        "id": "event-2",
+        "title": "Tune Tuesday",
+        "description": "Live band every Tuesday 5–8 PM. Come vibe with us!",
+        "tag": "Live Music",
+        "location": "Binghamton Flynnstoned",
+        "date": "Every Tuesday 5–8 PM"
+      },
+      {
+        "id": "event-3",
+        "title": "Costume Deal",
+        "description": "Wear a costume this week and get 15% off your purchase.",
+        "tag": "Deal",
+        "location": "Binghamton Flynnstoned",
+        "date": "This Week"
+      },
+      {
+        "id": "event-4",
+        "title": "Equinox Broadcasting",
+        "description": "Live radio pop-up every Friday 3:30–5:30 PM.",
+        "tag": "Live Radio",
+        "location": "Binghamton Flynnstoned",
+        "date": "Every Friday 3:30–5:30 PM"
+      }
+    ],
+    "cta": "View Full Calendar"
+  },
+  "deals": {
+    "sectionLabel": "Current Deals",
+    "headline": "This Week's Best Deals",
+    "subheadline": "Exclusive offers at Binghamton Flynnstoned.",
+    "items": [
+      {
+        "id": "deal-flower-1",
+        "dispensary": "Royal Leaf",
+        "category": "Flower",
+        "deal": "20% off Royal Leaf Flower",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-flower-2",
+        "dispensary": "Major",
+        "category": "Flower",
+        "deal": "3.5g for $35",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-flower-3",
+        "dispensary": "Florist Farms",
+        "category": "Flower",
+        "deal": "BOGO 50% off La Bomba",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-flower-4",
+        "dispensary": "Knack",
+        "category": "Flower",
+        "deal": "Oz. for $120 Indoor Flower",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-edibles-1",
+        "dispensary": "Level",
+        "category": "Edibles",
+        "deal": "20% off Protab — Every Thursday",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-dabs-1",
+        "dispensary": "HighLife",
+        "category": "Dabs/Vapes",
+        "deal": "20% off Rosi XL",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-dabs-2",
+        "dispensary": "Jaunty",
+        "category": "Dabs/Vapes",
+        "deal": "Palm 1.5g $50 / Carts from $45",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-dabs-3",
+        "dispensary": "Olio",
+        "category": "Dabs/Vapes",
+        "deal": "10% off Olio",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-dabs-4",
+        "dispensary": "Stiiizy",
+        "category": "Dabs/Vapes",
+        "deal": "25% off Vapes — Fri through Sun",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-prerolls-1",
+        "dispensary": "Stiiizy",
+        "category": "Prerolls",
+        "deal": "15% off Prerolls — Mon–Thurs Only",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-other-1",
+        "dispensary": "Birdie",
+        "category": "Other",
+        "deal": "30% off Oct 19–31",
+        "location": "Binghamton Flynnstoned"
+      },
+      {
+        "id": "deal-other-first-responders",
+        "dispensary": "First Responders",
+        "category": "Other",
+        "deal": "10% off — First Responders",
+        "description": "Active & retired first responders get 10% off storewide. Show your badge or ID at the register.",
+        "location": "Binghamton Flynnstoned",
+        "badge": "First Responders"
+      }
+    ]
+  },
+  "shop": {
+    "heading": "Shop Our Full Website",
+    "subheading": "Browse our complete selection of cannabis products, deals, and more — all in one place.",
+    "buttonText": "Shop Now at Flynnstoned.com",
+    "buttonUrl": "https://flynnstoned.com"
+  },
+  "trust": {
+    "headline": "Why Flynnstoned",
+    "items": [
+      {
+        "id": "trust-1",
+        "title": "Always 21+",
+        "description": "We verify age on every visit, no exceptions."
+      },
+      {
+        "id": "trust-2",
+        "title": "Curated Picks",
+        "description": "Only the best products make our shelves."
+      },
+      {
+        "id": "trust-3",
+        "title": "No Spam",
+        "description": "We only send deals and events worth knowing about."
+      }
+    ]
+  },
+  "newsletter": {
+    "headline": "Get VIP Deals & Event Alerts",
+    "subheadline": "Join the Flynnstoned inner circle. Be first to know about exclusive deals and upcoming events.",
+    "placeholder": "Enter your email",
+    "buttonText": "Sign Up for VIP Access",
+    "disclaimer": "No spam, ever. Unsubscribe anytime. Must be 21+."
+  }
+}
